@@ -1,0 +1,58 @@
+
+.titulo {
+  padding: 15px;
+  width: 30vw;
+  margin: auto;
+
+}
+
+.btn {
+  border: 0;
+  color: white;
+  font-weight: bold;
+  background-color: blue;
+     
+  padding: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 0.5em;
+}
+
+.text-input {
+  border-radius: 0.5em;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  display: block;
+  padding: 0.5em;
+  width: 30%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+      
+    background-image: url("fondo.jpg");
+    background-position: center;
+    background-size: cover;
+    margin: 0px;
+    text-align: center;
+
+}
+
+h1{
+  font-size: 800%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: darkred;
+}
+
+#ingreso-letras{
+color: darkred;
+font-size: 400%;
+
+}
+
+footer{
+  color: antiquewhite;
+  font-size: 100%;
+  font-family: cursive;
+}
